@@ -1,6 +1,6 @@
 # asymetric-java
 In This project i describe How to create PublicKey, privateKey, Signature and VerifySignature
-Prerequisite
+# Prerequisite
 1. You understand the concept of asymetric
 2. You familiar create maven project using intellij idea
 
@@ -14,7 +14,8 @@ In this tutorial i will use this scenario
 
 
 Let's jump right in
-A. Preparation
+
+A. PREPARATION
 1. add dependency in pom.xml
 2. create class CreateSignature and add property KeyPairGenerator, KeyPair, PrivateKey, PublicKey and Signature 
 3. create constructor 
